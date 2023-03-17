@@ -1,0 +1,18 @@
+form {
+    border-radius: 5px;
+    width: 400px;
+    padding: 20px;
+    background-color: rgb(122, 165, 179);
+    border: 2px;
+    border-color: black;
+    text-align: left;
+}
+
+h3 {
+    color: rgb(15, 8, 19);
+}
+
+p {
+    font-weight: bold;
+    font-size: 1.2em;
+}
